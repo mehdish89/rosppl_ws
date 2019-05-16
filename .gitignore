@@ -1,3 +1,5 @@
 /devel
 /build
 /node_modules
+/src/rosnodejs_examples
+rosnodejs_examples
